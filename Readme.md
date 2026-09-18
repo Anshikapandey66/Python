@@ -11,7 +11,7 @@ A structured journey to learn Python from the basics to advanced concepts throug
 5. **Conditional Statements**
 6. **Loops**
 7. **Functions**
-8. **Python Collections**
+8. **Python Collections**   
 9. **Comprehensions**
 10. **Modules & Packages**
 11. **File Handling**
