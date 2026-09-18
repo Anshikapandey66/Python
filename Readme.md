@@ -5,7 +5,7 @@ A structured journey to learn Python from the basics to advanced concepts throug
 ## Roadmap
 
 1. **Python Fundamentals**
-2. **Data Types**
+2. **Data Types**         
 3. **Operators**
 4. **Strings**
 5. **Conditional Statements**
