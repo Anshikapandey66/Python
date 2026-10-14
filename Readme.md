@@ -19,7 +19,6 @@ A structured journey to learn Python from the basics to advanced concepts throug
 13. **Object-Oriented Programming**
 
 ---
-
 ## Learning Approach
 
 * Learn one topic at a time.
