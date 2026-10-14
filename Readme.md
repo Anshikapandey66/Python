@@ -28,7 +28,7 @@ A structured journey to learn Python from the basics to advanced concepts throug
 * Commit and push the progress regularly.
 * Mark topics as completed after understanding and practicing them.
 
----
+
 
 ## Progress
 
